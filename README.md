@@ -1,4 +1,4 @@
-## 👏 Hi, I'm Steven VEla
+## 👏 Hi, I'm Steven Vela
 ##  I'm currently a Freshman from Katy Texas. I currently am a cyber security major working at Texas roadhouse and currently in a fratnerity called Lambda Chi Alpha
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
